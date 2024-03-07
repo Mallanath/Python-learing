@@ -1,5 +1,6 @@
 # when we say self. uska matlab class ke under ke attributes bolrahe ho
 #self.brand ka meaning class ke undar ke variable
+#self makes connection like telephone wire
 
 class Car:
     total_car = 0
